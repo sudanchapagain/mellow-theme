@@ -59,7 +59,7 @@
 		"activityBarBadge.background": "#57575f",
 		"activityBar.activeBorder": "#aca1cf",
 		"activityBar.border": "#131314",
-		"textBlockQuote.background": "#90b99f",
+		"textBlockQuote.background": "#1b1b1d",
 		"gitDecoration.addedResourceForeground": "#9dc6ac",
 		"gitDecoration.modifiedResourceForeground": "#f0c5a9",
 		"gitDecoration.deletedResourceForeground": "#ffae9f",
